@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net6.0\GenericAnimalClass.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\refint\GenericAnimalClass.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\GenericAnimalClass.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net6.0\ref\GenericAnimalClass.dll
